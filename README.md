@@ -1,4 +1,4 @@
-# Sales-_Analytics_SQL-PowerBI
+# Sales_Analytics_SQL-PowerBI
 
 
 Welcome to my first portfolio project. In this data cleaning, analysis and visualisation project, I clean the AdventureWorks dataset with SQL, then visualise it as an interactive 3-page dashboard with PowerBI and also export a static version of the dashboard as a PDF.
@@ -19,3 +19,5 @@ Finally, I visualise the data as an interactive 3-page dashboard in PowerBI. I a
 **Project Files**
 
 There are 3 project files (1 SQL, 1 PowerBI and 1 PDF) and 5 data table files (4 CSVs and 1 Excel Worksheet) in this repository.
+
+ download link to the original dataset on Microsoft's GitHub: https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2019.bak 
